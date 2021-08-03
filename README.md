@@ -1,4 +1,4 @@
-# test
+# Test. Тестовый проект. API поддерживающее CRUD запросы 2х связанных таблиц departments и employees
 
 Requirements:
 - Python 3.7
